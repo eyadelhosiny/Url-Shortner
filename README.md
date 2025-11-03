@@ -55,8 +55,8 @@ Simply visit `/api/shorturl/1234` and you'll be redirected to the original URL.
 
 1. **Clone the repository:**
    ```bash
-   git clone <repository-url>
-   cd url-shortener
+   git clone https://github.com/eyadelhosiny/Url-Shortner.git
+   cd Url-Shortner
    ```
 
 2. **Install dependencies:**
@@ -88,7 +88,7 @@ Simply visit `/api/shorturl/1234` and you'll be redirected to the original URL.
 ## Project Structure
 
 ```
-url-shortener/
+Url-Shortner/
 ├── public/
 │   └── style.css
 ├── views/
